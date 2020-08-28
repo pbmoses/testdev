@@ -1,0 +1,4 @@
+FROM openshift/nginx
+
+EXPOSE 8080
+EXPOSE 8443
